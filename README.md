@@ -47,4 +47,3 @@ Création des connexions structurelles à partir du paramètre `$relRecords`. Le
 
 ### Prérequis
 * Une instance **Neo4j** (Neo4j Desktop, Community Server ou AuraDB).
-* Un script d'interfaçage (par exemple en Python avec le driver `neo4j`) pour injecter les données sous forme de paramètres.
